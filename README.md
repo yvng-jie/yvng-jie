@@ -2,59 +2,37 @@
 
 # 👨‍💻 yvng-jie
 
-**Full-stack Engineer | CLI Tool Creator | Minimalism**
+**Full-stack Engineer | Open Source Contributor**
 
-`Building tools that make developers' lives easier.`
+`console.log("Welcome")`
 
 ---
 
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)]()
-[![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)]()
+[![](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]()
+[![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
 
 </div>
 
-### 🚀 Published Projects
+### 🚀 Projects
 
-* 🔧 **[devtools-cli](https://github.com/yvng-jie/devtools-cli)** — `dt`
-  - Terminal Swiss Army Knife: UUID, Base64, Color Converter, JWT Decoder, SHA Hash
-  - Published on npm: [`@yangfree/devtools-cli`](https://www.npmjs.com/package/@yangfree/devtools-cli)
-  - TypeScript · Vitest · CI/CD · 24 unit tests
+* 🔧 **[devtools-cli](https://github.com/yvng-jie/devtools-cli)** — Terminal Swiss Army Knife
+  - UUID, Base64, Color Converter, JWT Decoder, SHA Hash
+  - `npm i -g @yangfree/devtools-cli`
+* 🎨 **[jievim](https://github.com/yvng-jie/jievim)** — Neovim config for web development
+  - Clean, efficient, TypeScript/Next.js focused
+* 📱 **[Vue3-H5-Template](https://github.com/yvng-jie/Vue3-H5-Template)** — Vue 3 H5 boilerplate
+  - Vite 8 + Tailwind 4 + Vant 4 + i18n
 
-* 🎨 **[Obsidian ST4 Mariana Theme](https://github.com/yvng-jie/obsidian-st4-mariana)**
-  - A pixel-perfect recreation of the Sublime Text 4 visual experience for Obsidian
+### 🤝 Open Source Contributions
 
-### 🌐 Personal Projects
-
-* 💼 **Portfolio** — [jiepp.com](https://jiepp.com)
-* 🛠️ **Infrastructure** — Managing high-performance nodes in Singapore
-
-### 📊 Engineering Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yvng-jie&show_icons=true&theme=tokyonight&bg_color=1e1e1e&title_color=6699cc&text_color=d8dee9&icon_color=5fb3b3&hide_border=true" height="150" />
-</div>
+* `Comment.nvim` — [PR: nil safety fixes](https://github.com/numToStr/Comment.nvim/pull/522)
+* `devtools-hub` — [PR: color converter tool](https://github.com/shabeeltt/devtools-hub/pull/60)
 
 ---
 
-### 🛠️ Workspace & Tech Stack
+### 📫 Connect
 
-* **Hardware**: Mac mini (M1)
-* **Environment**: VS Code · pnpm · TypeScript
-* **Currently focused on**: CLI tools · Open source · Developer experience
-* **Vision**: Building elegant, minimal tools that solve real problems
-
----
-
-### 📫 Connect with Me
-
-- **Portfolio**: [https://jiepp.com](https://jiepp.com)
-- **Focus**: Full-stack development · CLI tools · Open source
-
-<div align="right">
-  <i>"In the AI era, English is the best programming language"</i>
-</div>
+- Portfolio: [jiepp.com](https://jiepp.com)
