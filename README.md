@@ -19,12 +19,13 @@
   - `npm i -g @yangfree/devtools-cli`
 - 🎨 **[jievim](https://github.com/yvng-jie/jievim)** — Neovim config for web development
   - Clean, efficient, TypeScript/Next.js focused
+- 🛠️ **[ds-visualized](https://github.com/yvng-jie/ds-visualized)** — Data structure visualization
+  - Interactive algorithm animations
 
 ### 🤝 Open Source Contributions
 
 - `Comment.nvim` — [PR: nil safety fixes](https://github.com/numToStr/Comment.nvim/pull/522)
-- `devtools-hub` — [PR: color converter tool](https://github.com/shabeeltt/devtools-hub/pull/60)
-- `devtools-hub` — [PR: markdown preview tool](https://github.com/shabeeltt/devtools-hub/pulls?q=is%3Apr+author%3Ayvng-jie)
+- `devtools-hub` — [PR: color converter & markdown preview](https://github.com/shabeeltt/devtools-hub/pulls?q=is%3Apr+author%3Ayvng-jie)
 
 ---
 
