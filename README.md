@@ -4,13 +4,11 @@
 
 **Full‑stack Engineer · Open Source Contributor**
 
-🌏 Tianjin &nbsp;·&nbsp; ✉️ [jiepp.com](https://jiepp.com) &nbsp;·&nbsp; ⏰ UTC+8
+<!-- intro -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yvng-jie&color=blueviolet&style=flat&label=Profile+Views)]() [![GitHub Followers](https://img.shields.io/github/followers/yvng-jie?style=social)]()
+Passionate about building elegant tools & seamless web experiences. I turn ideas into code, one commit at a time.
 
-### 🛠️ Tech Stack
-
-<!-- shields.io badges — accessible from China -->
+<!-- tech badges — no heading, just the tools -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -18,9 +16,13 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yvng-jie&color=blueviolet&style=flat&label=Profile+Views)]() [![GitHub Followers](https://img.shields.io/github/followers/yvng-jie?style=social)]()
+
 </div>
 
----
+<br>
 
 ### 🚀 Projects
 
@@ -36,6 +38,7 @@
 - `Comment.nvim` — [PR: nil safety fixes](https://github.com/numToStr/Comment.nvim/pull/522)
 - `devtools-hub` — [PR: color converter & markdown preview](https://github.com/shabeeltt/devtools-hub/pulls?q=is%3Apr+author%3Ayvng-jie)
 
----
-
-<p align="center"><b>Thanks for visiting! 🚀</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,50:4FC08D,100:000000&height=140&section=footer&text=✦%20Thanks%20for%20stopping%20by!%20✦&fontSize=22&fontAlignY=72&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,50:4FC08D,100:ffffff&height=140&section=footer&text=✦%20Thanks%20for%20stopping%20by!%20✦&fontSize=22&fontAlignY=72&animation=twinkling" />
+</picture>
