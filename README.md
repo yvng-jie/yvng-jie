@@ -12,6 +12,12 @@
 
 </div>
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yvng-jie&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvng-jie&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+</p>
+
 ### 🚀 Projects
 
 - 🔧 **[devtools-cli](https://github.com/yvng-jie/devtools-cli)** — Terminal Swiss Army Knife
@@ -21,6 +27,8 @@
   - Clean, efficient, TypeScript/Next.js focused
 - 🛠️ **[ds-visualized](https://github.com/yvng-jie/ds-visualized)** — Data structure visualization
   - Interactive algorithm animations
+- ⌨️ **[vue-cmdk](https://github.com/yvng-jie/vue-cmdk)** _(coming soon)_ — Vue command palette inspired by cmdk
+  - ⌘K command menu component for Vue 3
 
 ### 🤝 Open Source Contributions
 
