@@ -23,10 +23,9 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🔧 **[devtools-cli](https://github.com/yvng-jie/devtools-cli)** | Terminal Swiss Army Knife — UUID, Base64, JWT, Color, Hash | Node · `npm i -g @yangfree/devtools-cli` |
-| 🎨 **[jievim](https://github.com/yvng-jie/jievim)** | Clean Neovim config for Web (TypeScript / Next.js) | Lua |
+| 🔧 **[devkits](https://github.com/yvng-jie/devtools-cli)** | Terminal Swiss Army Knife — UUID, Base64, JWT, Color, Hash | Node · `npm i -g devkits` |
 | 🛠️ **[ds-visualized](https://github.com/yvng-jie/ds-visualized)** | Interactive data‑structure visualizations with live code playground | Vue |
-| ⌨️ **[vue‑cmdk](https://github.com/yvng-jie/vue-cmdk)** _(coming soon)_ | ⌘K command‑menu component for Vue 3, inspired by cmdk | Vue / TS |
+| ⌨️ **[vue‑cmdk](https://github.com/yvng-jie/vue-cmdk)** | ⌘K command‑menu component for Vue 3, inspired by cmdk | Vue · `npm i vue-command-kit` |
 
 ### 🤝 Open Source Contributions
 
