@@ -1,12 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **yvng‑jie**
+# Hi, I'm **yvng-jie**
 
-**Full‑stack Engineer · Open Source Contributor**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=yvng-jie&color=blueviolet&style=flat&label=Profile+Views)]() [![GitHub Followers](https://img.shields.io/github/followers/yvng-jie?style=social)]()
-
-<br>
+**Full-stack Engineer - Open Source Contributor**
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -17,22 +13,30 @@
 
 </div>
 
-<br>
+## Projects
 
-### 🚀 Projects
+### [vue-cmdk](https://github.com/yvng-jie/vue-cmdk)
+Command palette for Vue 3 -- zero dependencies, 3.4 kB gzipped, E2E tested, accessible.
+```
+npm i vue-command-kit
+```
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| 🔧 **[devkits](https://github.com/yvng-jie/devtools-cli)** | Terminal Swiss Army Knife — UUID, Base64, JWT, Color, Hash | Node · `npm i -g devkits` |
-| 🛠️ **[ds-visualized](https://github.com/yvng-jie/ds-visualized)** | Interactive data‑structure visualizations with live code playground | Vue |
-| ⌨️ **[vue‑cmdk](https://github.com/yvng-jie/vue-cmdk)** | ⌘K command‑menu component for Vue 3, inspired by cmdk | Vue · `npm i vue-command-kit` |
+### [devtools-cli](https://github.com/yvng-jie/devtools-cli)
+Terminal Swiss Army Knife -- UUID, Base64, JWT, Color, Hash & more (5 stars)
+```
+npm i -g devkits
+```
 
-### 🤝 Open Source Contributions
+### [ds-visualized](https://github.com/yvng-jie/ds-visualized)
+Interactive data structure visualizations with live code playground. Covers 8 structures.
 
-- `Comment.nvim` — [PR: nil safety fixes](https://github.com/numToStr/Comment.nvim/pull/522)
-- `devtools-hub` — [PR: color converter & markdown preview](https://github.com/shabeeltt/devtools-hub/pulls?q=is%3Apr+author%3Ayvng-jie)
+### [Vue3-H5-Template](https://github.com/yvng-jie/Vue3-H5-Template)
+Production-ready Vue 3 H5 boilerplate -- Vite 8, Tailwind 4, Vant 4, native i18n.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,50:4FC08D,100:000000&height=140&section=footer&text=✦%20Thanks%20for%20stopping%20by!%20✦&fontSize=22&fontAlignY=72&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,50:4FC08D,100:ffffff&height=140&section=footer&text=✦%20Thanks%20for%20stopping%20by!%20✦&fontSize=22&fontAlignY=72&animation=twinkling" />
-</picture>
+### [jievim](https://github.com/yvng-jie/jievim)
+Neovim config optimized for TypeScript/Next.js development.
+
+## Open Source Contributions
+
+- [Comment.nvim](https://github.com/numToStr/Comment.nvim/pull/522) -- nil safety fixes
+- [devtools-hub](https://github.com/shabeeltt/devtools-hub) -- color converter & markdown preview
